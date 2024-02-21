@@ -53,7 +53,9 @@ A seguinte ferramentas foram usadas na construção do projeto:
    
 ## 📦 Como executar o projeto
 
-Este é um projeto que utiliza <kbd>JavaScript<kbd>. Para executar um arquivo .js (JavaScript), você pode usar um ambiente de execução adequado, como o Node.js. <br>
+Este é um projeto que utiliza <kbd>JavaScript<kbd>
+
+Para executar um arquivo .js (JavaScript), você pode usar um ambiente de execução adequado, como o Node.js. <br>
 
 Para executar um arquivo .js com o Node.js, você precisa ter o Node.js instalado em seu sistema. Depois, basta abrir o terminal, navegar até o diretório onde o arquivo .js está localizado e digitar:
 
