@@ -4,11 +4,10 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
- <a href="#-demo-do-projeto">Demo do projeto</a> •
  <a href="#-requisitos">Requisitos</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-como-executar-o-projeto">Como executar o projeto</a> • 
- <a href="#-desenvolvedora">Desenvolvedor</a> • 
+ <a href="#-desenvolvedor">Desenvolvedor</a> • 
 </p>
 
 ## 📋 Sobre o projeto
@@ -30,15 +29,7 @@ Dado o escopo global da aplicação, pede-se desenvolver cada subtarefa visando,
 
     - Podem separar as funcionalidades em arquivos, de acordo com a necessidade que houver.
 </p>
-
-## 🎬 Demo do projeto
   
-#### Veja o projeto em execução 
-
-  <a href="">
-    <img src="https://img.shields.io/badge/Acessar%20Projeto%20-%20web-green">
-  </a>
-
 ## ⚙ Requisitos
 - [x] Criar uma função para verificar o dia da semana atual, que será levado em conta para o disparo dos emails.
 - [x] Criar uma função para montar o corpo do e-mail a ser enviado.
