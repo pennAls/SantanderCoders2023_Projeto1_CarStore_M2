@@ -4,6 +4,6 @@ const corpoEmail = require("./corpo_email")
 const error = require("./resposta")
 
 const dia = verificaData();
-if (dia === 3) {
+if (dia === 1) {
   error(enviarEmail(corpoEmail()));
 }
